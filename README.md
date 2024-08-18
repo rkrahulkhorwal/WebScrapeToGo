@@ -62,4 +62,4 @@ This tool is for educational purposes only. Always respect websites' terms of se
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/WebScrapeToGo/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/rkrahulkhorwal/WebScrapeToGo/issues) if you want to contribute.
